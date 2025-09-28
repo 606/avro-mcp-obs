@@ -1,0 +1,151 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "FluentValidation >= 11.9.2",
+      "FluentValidation.AspNetCore >= 11.3.0",
+      "Microsoft.AspNetCore.OpenApi >= 8.0.8",
+      "Microsoft.Extensions.Http >= 8.0.0",
+      "ModelContextProtocol >= 0.5.0",
+      "ModelContextProtocol.AspNetCore >= 0.5.0",
+      "Swashbuckle.AspNetCore >= 6.4.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/worze/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "projectName": "Avro.Mcp.Orchestrator",
+      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "packagesPath": "/Users/worze/.nuget/packages/",
+      "outputPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/worze/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.9.2, )"
+          },
+          "FluentValidation.AspNetCore": {
+            "target": "Package",
+            "version": "[11.3.0, )"
+          },
+          "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[8.0.8, )"
+          },
+          "Microsoft.Extensions.Http": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
+          "ModelContextProtocol": {
+            "target": "Package",
+            "version": "[0.5.0, )"
+          },
+          "ModelContextProtocol.AspNetCore": {
+            "target": "Package",
+            "version": "[0.5.0, )"
+          },
+          "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist."
+    }
+  ]
+}

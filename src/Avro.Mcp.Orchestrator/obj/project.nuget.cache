@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "dgSpecHash": "vNgX7TfOHCw=",
+  "success": false,
+  "projectFilePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
+      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
+      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
+      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
+      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
+      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
+      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
+      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
