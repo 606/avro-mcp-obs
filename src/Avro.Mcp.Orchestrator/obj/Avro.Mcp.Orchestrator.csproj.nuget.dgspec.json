@@ -14,13 +14,13 @@
         "outputPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+          "/Users/worze/dev/avro/avro-mcp-obs/NuGet.Config",
           "/Users/worze/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,11 +63,11 @@
             },
             "ModelContextProtocol": {
               "target": "Package",
-              "version": "[0.5.0, )"
+              "version": "[0.4.0-preview.1, )"
             },
             "ModelContextProtocol.AspNetCore": {
               "target": "Package",
-              "version": "[0.5.0, )"
+              "version": "[0.4.0-preview.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

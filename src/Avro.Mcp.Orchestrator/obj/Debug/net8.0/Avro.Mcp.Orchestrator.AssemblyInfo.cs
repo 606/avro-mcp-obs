@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avro.Mcp.Orchestrator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e1830fa3530fd613e861628b8a30f859294820e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20c8a7f4428210e46ddffd0d722b452a13327624")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avro.Mcp.Orchestrator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avro.Mcp.Orchestrator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

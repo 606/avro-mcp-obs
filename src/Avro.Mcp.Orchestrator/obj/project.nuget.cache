@@ -1,65 +1,40 @@
 {
   "version": 2,
-  "dgSpecHash": "vNgX7TfOHCw=",
-  "success": false,
+  "dgSpecHash": "lhTjvnouuwk=",
+  "success": true,
   "projectFilePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
-      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
-      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
-      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
-      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
-      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
-      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "targetGraphs": []
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "The local source '/Users/worze/dev/work/avro-mcp-orchestrator/local-nuget-feed' doesn't exist.",
-      "projectPath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "filePath": "/Users/worze/dev/avro/avro-mcp-obs/src/Avro.Mcp.Orchestrator/Avro.Mcp.Orchestrator.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "expectedPackageFiles": [
+    "/Users/worze/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/Users/worze/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.aspnetcore.openapi/8.0.8/microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.ai.abstractions/9.9.1/microsoft.extensions.ai.abstractions.9.9.1.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.diagnostics/8.0.0/microsoft.extensions.diagnostics.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.1/microsoft.extensions.diagnostics.abstractions.8.0.1.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.hosting.abstractions/8.0.1/microsoft.extensions.hosting.abstractions.8.0.1.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.http/8.0.0/microsoft.extensions.http.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.3/microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/worze/.nuget/packages/modelcontextprotocol/0.4.0-preview.1/modelcontextprotocol.0.4.0-preview.1.nupkg.sha512",
+    "/Users/worze/.nuget/packages/modelcontextprotocol.aspnetcore/0.4.0-preview.1/modelcontextprotocol.aspnetcore.0.4.0-preview.1.nupkg.sha512",
+    "/Users/worze/.nuget/packages/modelcontextprotocol.core/0.4.0-preview.1/modelcontextprotocol.core.0.4.0-preview.1.nupkg.sha512",
+    "/Users/worze/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/Users/worze/.nuget/packages/system.net.serversentevents/10.0.0-preview.4.25258.110/system.net.serversentevents.10.0.0-preview.4.25258.110.nupkg.sha512"
+  ],
+  "logs": []
 }

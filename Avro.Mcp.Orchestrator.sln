@@ -4,6 +4,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avro.Mcp.Orchestrator", "src\Avro.Mcp.Orchestrator\Avro.Mcp.Orchestrator.csproj", "{2C5F5A1F-7B1A-4B2C-8E3D-9F4A5B6C7D8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avro.Mcp.Git", "src\Avro.Mcp.Git\Avro.Mcp.Git.csproj", "{3D6F6B2G-8C2B-5C3D-9F5E-0G5B6C7D8E9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{2C5F5A1F-7B1A-4B2C-8E3D-9F4A5B6C7D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C5F5A1F-7B1A-4B2C-8E3D-9F4A5B6C7D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C5F5A1F-7B1A-4B2C-8E3D-9F4A5B6C7D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6F6B2G-8C2B-5C3D-9F5E-0G5B6C7D8E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6F6B2G-8C2B-5C3D-9F5E-0G5B6C7D8E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6F6B2G-8C2B-5C3D-9F5E-0G5B6C7D8E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6F6B2G-8C2B-5C3D-9F5E-0G5B6C7D8E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

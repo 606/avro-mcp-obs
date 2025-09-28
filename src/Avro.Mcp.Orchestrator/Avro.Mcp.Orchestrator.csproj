@@ -12,8 +12,8 @@
     <PackageReference Include="FluentValidation" Version="11.9.2" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
-    <PackageReference Include="ModelContextProtocol" Version="0.5.0" />
-    <PackageReference Include="ModelContextProtocol.AspNetCore" Version="0.5.0" />
+    <PackageReference Include="ModelContextProtocol" Version="0.4.0-preview.1" />
+    <PackageReference Include="ModelContextProtocol.AspNetCore" Version="0.4.0-preview.1" />
   </ItemGroup>
 
 </Project>
